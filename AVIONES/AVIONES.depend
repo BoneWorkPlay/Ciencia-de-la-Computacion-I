@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1385316878 source:d:\tptmdr\aviones\main.cpp
+	<iostream>
+
+1496418458 source:d:\tptmdr\aviones\src\avion.cpp
+	"Avion.h"
+
+1496419508 d:\tptmdr\aviones\include\avion.h
+
+1496419276 source:d:\tptmdr\aviones\src\avion1.cpp
+	"Avion1.h"
+
+1496419508 d:\tptmdr\aviones\include\avion1.h
+
+1496419276 source:d:\tptmdr\aviones\src\avion2.cpp
+	"Avion2.h"
+
+1496419508 d:\tptmdr\aviones\include\avion2.h
+
+1496418462 source:d:\tptmdr\aviones\src\torre.cpp
+	"Torre.h"
+
+1496418458 d:\tptmdr\aviones\include\torre.h
+	"Avion.h"
+
