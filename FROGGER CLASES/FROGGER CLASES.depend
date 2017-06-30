@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1498793350 source:d:\c+++++++++++++++++++++++\frogger clases\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<sstream>
+	"juego.h"
+
+1498778334 d:\c+++++++++++++++++++++++\frogger clases\include\juego.h
+	"jugador.h"
+	"automovil.h"
+
+1498761066 d:\c+++++++++++++++++++++++\frogger clases\include\jugador.h
+
+1498799801 source:d:\c+++++++++++++++++++++++\frogger clases\src\juego.cpp
+	"juego.h"
+	<windows.h>
+	<conio.h>
+
+1498783759 source:d:\c+++++++++++++++++++++++\frogger clases\src\jugador.cpp
+	"jugador.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1498760592 d:\c+++++++++++++++++++++++\frogger clases\include\automovil.h
+	"npc.h"
+
+1498792544 d:\c+++++++++++++++++++++++\frogger clases\include\npc.h
+
+1498785878 source:d:\c+++++++++++++++++++++++\frogger clases\src\automovil.cpp
+	"automovil.h"
+	"npc.h"
+
+1498784244 source:d:\c+++++++++++++++++++++++\frogger clases\src\npc.cpp
+	"npc.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
